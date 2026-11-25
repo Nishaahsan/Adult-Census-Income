@@ -1,4 +1,3 @@
-# Machine-Learning-project
 # Adult Census Income — Supervised, Unsupervised & Semi-Supervised Learning
 
 An end-to-end machine learning project demonstrating how **one binary classification dataset** can be used across **three different learning paradigms** — Supervised, Unsupervised, and Semi-Supervised Learning — using the **Adult Census Income** dataset.
